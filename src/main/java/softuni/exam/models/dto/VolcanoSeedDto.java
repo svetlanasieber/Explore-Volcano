@@ -42,15 +42,6 @@ public class VolcanoSeedDto {
     public void setElevation(int elevation) {
         this.elevation = elevation;
     }
-//    @Size(min = 2, max = 30)
-//    public String getVolcanoType() {
-//        return volcanoType;
-//    }
-//
-//    public void setVolcanoType(String volcanoType) {
-//        this.volcanoType = volcanoType;
-//    }
-
 
     public VolcanoType getVolcanoType() {
         return volcanoType;
