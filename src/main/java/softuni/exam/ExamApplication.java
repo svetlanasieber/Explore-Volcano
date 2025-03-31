@@ -10,18 +10,5 @@ public class ExamApplication {
         SpringApplication.run(ExamApplication.class, args);
     }
 
-//    public static class JDKVersionChecker {
-//
-//        public static void main(String[] args) {
-//            String javaVersion = getJavaVersion();
-//            System.out.println("Java version: " + javaVersion);
-//        }
-//
-//        public static String getJavaVersion() {
-//            String version = System.getProperty("java.version");
-//            System.out.println(version);
-//            return version;
-//        }
-//    }
 
 }
